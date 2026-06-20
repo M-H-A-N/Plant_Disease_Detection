@@ -1,5 +1,5 @@
 # Plant_Disease_Detection
-#### *This repo contains the python codes of my final thesis "Analysis of leaf species and detection of diseases using image processing and machine learning methods".*
+#### *This repo contains the python codes of my Project"Analysis of leaf species and detection of diseases using image processing and machine learning methods".*
 ### Dataset
 In this project used PlantVillage dataset.This dataset is recreated using offline augmentation from the original dataset. The original dataset can be found on [this github repo](https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw). This dataset consists of about 76K rgb images of healthy and diseased crop leaves which is categorized into 33 different classes.
 
